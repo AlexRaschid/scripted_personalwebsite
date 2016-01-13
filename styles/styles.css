@@ -1,0 +1,43 @@
+
+/* page3 */
+
+#page3 .link1 {
+    background-color: red;
+}
+
+#page3 .link2 {
+    background-color: blue;
+}
+
+#page3 .link4 {
+    background-color: green;
+}
+
+
+/* page 2 */
+
+#page2 .link1 {
+    background-color: red;
+}
+
+#page2 .link2 {
+    background-color: blue;
+}
+
+#page2 .link3 {
+    background-color: orange;
+}
+
+/* page 1 */
+
+#page1 .link1 {
+    background-color: red;
+}
+
+#page1 .link2 {
+    background-color: blue;
+}
+
+#page1 .link3 {
+    background-color: orange;
+}
