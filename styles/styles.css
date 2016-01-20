@@ -1,43 +1,29 @@
 
 /* page3 */
 
-#page3 .link1 {
-    background-color: red;
+.link1 {
+    font-size: 20px;
+    padding:10px;
+    background-color: #ff3300; /*Red*/
 }
 
-#page3 .link2 {
-    background-color: blue;
+.link2 {
+    font-size: 20px;
+    padding:10px;
+    background-image: url("https://media.giphy.com/media/E73bJJSMHMRsQ/giphy.gif"); /*Blue*/
 }
 
-#page3 .link4 {
-    background-color: green;
+.link3 {
+    font-size: 20px;
+    padding:10px;
+    background-color: yellow;
+    background-image: url("http://images2.wikia.nocookie.net/zelda/images/e/ec/Triforce.gif");
+    background-position: 50% 40%; 
+    background-repeat: no-repeat;
 }
 
-
-/* page 2 */
-
-#page2 .link1 {
-    background-color: red;
-}
-
-#page2 .link2 {
-    background-color: blue;
-}
-
-#page2 .link3 {
-    background-color: orange;
-}
-
-/* page 1 */
-
-#page1 .link1 {
-    background-color: red;
-}
-
-#page1 .link2 {
-    background-color: blue;
-}
-
-#page1 .link3 {
-    background-color: orange;
+.linkIndex {
+    font-size: 20px;
+    padding:10px;
+    background-image: url("https://media.giphy.com/media/1qj9rg3xfD9Hq/giphy.gif"); /*Rainbow*/
 }
