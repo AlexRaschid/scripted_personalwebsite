@@ -4,13 +4,13 @@
 .link1 {
     font-size: 20px;
     padding:10px;
-    background-color: #ff3300; /*Red*/
+    background-color: #ff3300; 
 }
 
 .link2 {
     font-size: 20px;
-    padding:10px;
-    background-image: url("https://media.giphy.com/media/E73bJJSMHMRsQ/giphy.gif"); /*Blue*/
+    padding: 10px;
+    background-color: green;
 }
 
 .link3 {
@@ -25,5 +25,18 @@
 .linkIndex {
     font-size: 20px;
     padding:10px;
-    background-image: url("https://media.giphy.com/media/1qj9rg3xfD9Hq/giphy.gif"); /*Rainbow*/
+    background-image: url("https://media.giphy.com/media/1qj9rg3xfD9Hq/giphy.gif"); 
+}
+#idxdiv{
+    height: 200px;
+    background-color: #00F2FF;
+}
+#idxh2{
+    border-top: 20px solid #00F2FF;
+    text-align: center;
+    background-color: #62FF00;
+}
+
+#idxdesc{
+    margin: 5%;
 }
